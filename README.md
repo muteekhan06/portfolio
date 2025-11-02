@@ -84,21 +84,21 @@ The platform eliminates backend infrastructure complexity while maintaining prof
 
 ## 📦 Technology Stack
 
-| Layer | Technology | Purpose | Version |
-|-------|-----------|---------|---------|
-| **Framework** | React | UI component library | 18.3+ |
-| **Language** | TypeScript | Type-safe development | 5.5+ |
-| **Build Tool** | Vite | Lightning-fast bundler | 5.4+ |
-| **Styling** | Tailwind CSS | Utility-first CSS | 3.4+ |
-| **Animation** | Framer Motion | Smooth motion library | 11.5+ |
-| **Icons** | lucide-react | Consistent icon system | Latest |
-| **Editor** | Monaco Editor | VS Code in the browser | Latest |
-| **Auth** | bcryptjs, speakeasy | Password + 2FA | Latest |
-| **Validation** | Ajv | JSON schema validation | Latest |
-| **Security** | DOMPurify | XSS protection | Latest |
-| **Hosting** | Vercel | Serverless platform | Free Hobby |
-| **VCS** | GitHub | Source control & data store | Free Public |
-| **CI/CD** | GitHub Actions | Automated testing & deployment | Free 2000 min/mo |
+| Layer          | Technology          | Purpose                        | Version          |
+| -------------- | ------------------- | ------------------------------ | ---------------- |
+| **Framework**  | React               | UI component library           | 18.3+            |
+| **Language**   | TypeScript          | Type-safe development          | 5.5+             |
+| **Build Tool** | Vite                | Lightning-fast bundler         | 5.4+             |
+| **Styling**    | Tailwind CSS        | Utility-first CSS              | 3.4+             |
+| **Animation**  | Framer Motion       | Smooth motion library          | 11.5+            |
+| **Icons**      | lucide-react        | Consistent icon system         | Latest           |
+| **Editor**     | Monaco Editor       | VS Code in the browser         | Latest           |
+| **Auth**       | bcryptjs, speakeasy | Password + 2FA                 | Latest           |
+| **Validation** | Ajv                 | JSON schema validation         | Latest           |
+| **Security**   | DOMPurify           | XSS protection                 | Latest           |
+| **Hosting**    | Vercel              | Serverless platform            | Free Hobby       |
+| **VCS**        | GitHub              | Source control & data store    | Free Public      |
+| **CI/CD**      | GitHub Actions      | Automated testing & deployment | Free 2000 min/mo |
 
 ---
 
@@ -199,6 +199,7 @@ Open http://localhost:5173 in your browser.
 Navigate to http://localhost:5173/admin
 
 **Login with**:
+
 - **Username**: admin
 - **Password**: (your password from Step 4)
 - **2FA Code**: Code from authenticator app
@@ -305,6 +306,7 @@ portfolio/
 ### Content Files Reference
 
 **`profile.json`** - Personal information
+
 ```json
 {
   "name": "Mutee ur Rehman",
@@ -316,6 +318,7 @@ portfolio/
 ```
 
 **`projects.json`** - Portfolio projects
+
 ```json
 {
   "projects": [
@@ -332,6 +335,7 @@ portfolio/
 ```
 
 **`experience.json`** - Work history
+
 ```json
 {
   "experience": [
@@ -347,6 +351,7 @@ portfolio/
 ```
 
 **`skills.json`** - Technical skills
+
 ```json
 {
   "skills": [
@@ -359,6 +364,7 @@ portfolio/
 ```
 
 **`awards.json`** - Recognition & achievements
+
 ```json
 {
   "awards": [
@@ -402,6 +408,7 @@ Switch languages via the language selector in Navbar.
 **Automatic Deployment**:
 
 1. **Push to GitHub**
+
    ```powershell
    git add .
    git commit -m "Initial commit"
@@ -409,18 +416,21 @@ Switch languages via the language selector in Navbar.
    ```
 
 2. **Connect to Vercel**
+
    - Go to https://vercel.com/new
    - Click "Import Git Repository"
    - Select your GitHub repository
    - Vercel auto-detects Vite configuration
 
 3. **Configure Build**
+
    - **Framework Preset**: Vite
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
    - **Root Directory**: `./` (default)
 
 4. **Add Environment Variables**
+
    - Go to **Settings → Environment Variables**
    - Add all variables from `.env`:
      - `VITE_ADMIN_PASSWORD_HASH`
