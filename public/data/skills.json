@@ -1,0 +1,315 @@
+{
+  "technical": [
+    {
+      "category": "AI & ML",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 95,
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "TensorFlow",
+          "level": 88,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "PyTorch",
+          "level": 90,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "OpenCV",
+          "level": 92,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "YOLO",
+          "level": 90,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "CNNs",
+          "level": 88,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "OCR",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "NLP",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "spaCy",
+          "level": 82,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "NLTK",
+          "level": 80,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "CatBoost",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "XGBoost",
+          "level": 85,
+          "yearsOfExperience": 2
+        }
+      ]
+    },
+    {
+      "category": "Web Development",
+      "skills": [
+        {
+          "name": "React",
+          "level": 90,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Next.js",
+          "level": 88,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Node.js",
+          "level": 85,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Express",
+          "level": 85,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "FastAPI",
+          "level": 92,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Flask",
+          "level": 90,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "WordPress",
+          "level": 88,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Elementor",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Material-UI",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "REST APIs",
+          "level": 90,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "WebSocket",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "MongoDB",
+          "level": 82,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Redux",
+          "level": 80,
+          "yearsOfExperience": 2
+        }
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "skills": [
+        {
+          "name": "Docker",
+          "level": 88,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Git",
+          "level": 95,
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "GitHub",
+          "level": 95,
+          "yearsOfExperience": 4
+        },
+        {
+          "name": "Cloudinary",
+          "level": 80,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Supabase",
+          "level": 82,
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Twilio",
+          "level": 78,
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "Gunicorn",
+          "level": 82,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Nginx",
+          "level": 80,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Playwright",
+          "level": 75,
+          "yearsOfExperience": 1
+        }
+      ]
+    },
+    {
+      "category": "Creative",
+      "skills": [
+        {
+          "name": "Graphic Design",
+          "level": 85,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Animation",
+          "level": 80,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Video Editing",
+          "level": 82,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "YouTube SEO",
+          "level": 88,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Canva",
+          "level": 85,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Blender",
+          "level": 75,
+          "yearsOfExperience": 1
+        },
+        {
+          "name": "After Effects",
+          "level": 78,
+          "yearsOfExperience": 1
+        }
+      ]
+    },
+    {
+      "category": "Other",
+      "skills": [
+        {
+          "name": "C++",
+          "level": 85,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "JavaScript",
+          "level": 90,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "TypeScript",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "JWT",
+          "level": 85,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Multer",
+          "level": 80,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Tesseract",
+          "level": 82,
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "Scikit-learn",
+          "level": 88,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "BeautifulSoup",
+          "level": 90,
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "ReportLab",
+          "level": 80,
+          "yearsOfExperience": 1
+        }
+      ]
+    }
+  ],
+  "soft": [
+    {
+      "name": "Problem Solving",
+      "level": 95
+    },
+    {
+      "name": "Communication",
+      "level": 90
+    },
+    {
+      "name": "Team Leadership",
+      "level": 88
+    },
+    {
+      "name": "Project Management",
+      "level": 85
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "level": 87
+    },
+    {
+      "name": "Client Relations",
+      "level": 90
+    }
+  ],
+  "languages": [
+    {
+      "name": "Urdu",
+      "proficiency": "Native"
+    },
+    {
+      "name": "English",
+      "proficiency": "Full Professional Proficiency"
+    }
+  ]
+}

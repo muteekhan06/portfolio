@@ -1,0 +1,241 @@
+﻿[
+  {
+    "id": "proj-001",
+    "title": "Car Price Predictor",
+    "subtitle": "Production-Grade Car Valuation AI",
+    "description": "End-to-end car price prediction system with 39 REST endpoints, WebSocket support, CatBoost + XGBoost ensemble model with 30+ engineered features.",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "FastAPI",
+      "CatBoost",
+      "XGBoost",
+      "WebSocket",
+      "Machine Learning"
+    ],
+    "category": "AI/ML",
+    "featured": true,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/Car-Price-Predictor"
+    }
+  },
+  {
+    "id": "proj-002",
+    "title": "PlateVision AI",
+    "subtitle": "License Plate Detection & Redaction",
+    "description": "Privacy-first license plate detection using YOLOv8 and OCR with drag-and-drop interface.",
+    "image": "https://images.unsplash.com/photo-1517949908115-72248c584199?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "YOLOv8",
+      "OpenCV",
+      "EasyOCR",
+      "Flask",
+      "Computer Vision"
+    ],
+    "category": "AI/ML",
+    "featured": true,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/PlateVision-AI"
+    }
+  },
+  {
+    "id": "proj-003",
+    "title": "AutoLeadX",
+    "subtitle": "AI Lead Generation Platform",
+    "description": "100% FREE lead generation with no API keys. Scrapes DuckDuckGo, Bing, and Google with email validation.",
+    "image": "https://images.unsplash.com/photo-1526378722484-cc46e262f999?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "Flask",
+      "BeautifulSoup",
+      "SQLAlchemy",
+      "Web Scraping"
+    ],
+    "category": "Web Development",
+    "featured": true,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/AutoLeadX"
+    }
+  },
+  {
+    "id": "proj-004",
+    "title": "SmartRetail.AI",
+    "subtitle": "WhatsApp Order Automation",
+    "description": "Production retail management with Next.js and FastAPI. AI parses orders via GPT-4o-mini with Twilio WhatsApp integration.",
+    "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Next.js",
+      "FastAPI",
+      "Supabase",
+      "OpenAI",
+      "Twilio",
+      "Python"
+    ],
+    "category": "AI/ML",
+    "featured": true,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/SmartRetail.AI"
+    }
+  },
+  {
+    "id": "proj-005",
+    "title": "TubePilot",
+    "subtitle": "YouTube SEO Intelligence",
+    "description": "Professional YouTube SEO tool with keyword research, video analysis, and AI content generators.",
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "FastAPI",
+      "spaCy",
+      "NLTK",
+      "NLP",
+      "BeautifulSoup"
+    ],
+    "category": "Web Development",
+    "featured": true,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/TubePilot"
+    }
+  },
+  {
+    "id": "proj-006",
+    "title": "Emoji Detector AI",
+    "subtitle": "99.99% Accurate Emoji Detection",
+    "description": "Real-time emoji detection using YOLO + CNN + OCR with REST API and Docker support.",
+    "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "YOLO",
+      "OpenCV",
+      "Tesseract",
+      "Flask",
+      "Docker"
+    ],
+    "category": "AI/ML",
+    "featured": false,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/emoji-detector-ai"
+    }
+  },
+  {
+    "id": "proj-007",
+    "title": "Freelancers Network",
+    "subtitle": "MERN Stack Marketplace",
+    "description": "Full-featured freelance marketplace with JWT authentication and Material-UI design.",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Redux",
+      "Material-UI"
+    ],
+    "category": "Web Development",
+    "featured": false,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/Freelancers-Network"
+    }
+  },
+  {
+    "id": "proj-008",
+    "title": "React CSS Portfolio",
+    "subtitle": "Modern React Portfolio",
+    "description": "Stunning portfolio with React 18, Material-UI v5, dark mode, and validated forms.",
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "React",
+      "Material-UI",
+      "React Router",
+      "Formik"
+    ],
+    "category": "Web Development",
+    "featured": false,
+    "status": "Live",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/react-css-portfolio"
+    }
+  },
+  {
+    "id": "proj-009",
+    "title": "PongMaster",
+    "subtitle": "Classic Pong Game",
+    "description": "Polished Pong game with custom difficulty levels built using Python Turtle Graphics.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "Turtle Graphics",
+      "Game Development"
+    ],
+    "category": "Other",
+    "featured": false,
+    "status": "Complete",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/PongMaster"
+    }
+  },
+  {
+    "id": "proj-010",
+    "title": "MNIST Neural Network",
+    "subtitle": "From Scratch Implementation",
+    "description": "Pure NumPy neural network achieving 94.56% test accuracy on MNIST.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "Python",
+      "NumPy",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "category": "AI/ML",
+    "featured": false,
+    "status": "Complete",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/mnist_neural_network"
+    }
+  },
+  {
+    "id": "proj-011",
+    "title": "TextEditor-1.0",
+    "subtitle": "Vim-inspired Text Editor",
+    "description": "Feature-rich command-line text editor in C++ with Vim commands.",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "C++",
+      "OOP",
+      "Data Structures"
+    ],
+    "category": "Other",
+    "featured": false,
+    "status": "Complete",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/TextEditor-1.0"
+    }
+  },
+  {
+    "id": "proj-012",
+    "title": "Tiny-VGG FashionMNIST",
+    "subtitle": "CNN Clothing Classifier",
+    "description": "CNN achieving 90%+ accuracy on FashionMNIST with PyTorch.",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=1200&q=80",
+    "tags": [
+      "PyTorch",
+      "CNN",
+      "Deep Learning",
+      "CUDA"
+    ],
+    "category": "AI/ML",
+    "featured": false,
+    "status": "Complete",
+    "links": {
+      "github": "https://github.com/muteeurrehman28/tiny-vgg-fashionmnist"
+    }
+  }
+]

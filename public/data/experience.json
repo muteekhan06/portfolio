@@ -1,0 +1,146 @@
+[
+  {
+    "id": "exp-001",
+    "company": "Infynix Solutions",
+    "position": "Chief Executive Officer (CEO) & Founder",
+    "location": "Lahore, Pakistan",
+    "startDate": "2025-08-01",
+    "endDate": null,
+    "current": true,
+    "website": "https://infynixsolutions.com",
+    "description": "Leading AI innovation, operations, and product strategy for a comprehensive technology solutions company.",
+    "achievements": [
+      "Deliver custom AI chatbots and automation scripts",
+      "Build SEO-optimized, responsive websites with WordPress & Elementor",
+      "Provide YouTube SEO, graphic design, and digital marketing services",
+      "Established client base with measurable ROI through intelligent solutions"
+    ],
+    "technologies": [
+      "AI",
+      "Python",
+      "WordPress",
+      "Elementor",
+      "SEO",
+      "Graphic Design"
+    ]
+  },
+  {
+    "id": "exp-002",
+    "company": "Infynix Solutions",
+    "position": "Machine Learning Engineer",
+    "location": "Lahore, Pakistan",
+    "startDate": "2025-09-01",
+    "endDate": null,
+    "current": true,
+    "website": "https://infynixsolutions.com",
+    "description": "Design end-to-end AI pipelines using LLMs, CNNs, and generative models.",
+    "achievements": [
+      "Deploy real-time inference systems with Docker and REST APIs",
+      "Build production-grade computer vision solutions",
+      "Implement neural networks and deep learning architectures",
+      "Optimize ML models for performance and scalability"
+    ],
+    "technologies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Docker",
+      "FastAPI",
+      "OpenCV"
+    ]
+  },
+  {
+    "id": "exp-003",
+    "company": "Car Mandi",
+    "position": "Artificial Intelligence Engineer",
+    "location": "Lahore, Pakistan",
+    "startDate": "2025-09-01",
+    "endDate": null,
+    "current": true,
+    "website": "https://carmandi.pk",
+    "description": "Develop computer vision solutions for vehicle detection and classification.",
+    "achievements": [
+      "Enhanced platform with AI-driven search and pricing",
+      "Implemented fraud detection systems",
+      "Built vehicle classification models using CNNs",
+      "Optimized computer vision pipelines for real-time processing"
+    ],
+    "technologies": [
+      "Python",
+      "YOLO",
+      "TensorFlow",
+      "Computer Vision",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": "exp-004",
+    "company": "MathCat Regional",
+    "position": "Research Assistant (Contract)",
+    "location": "Lahore, Pakistan",
+    "startDate": "2025-08-01",
+    "endDate": null,
+    "current": true,
+    "website": "https://youtube.com/@MathCatRegional",
+    "description": "Create educational animations and manage studio production for 100K+ subscriber YouTube channel.",
+    "achievements": [
+      "Create educational animations using Blender & After Effects",
+      "Manage studio production pipeline for consistent content delivery",
+      "Contribute to engaging mathematical content for large audience",
+      "Coordinate video production workflow and quality assurance"
+    ],
+    "technologies": [
+      "Blender",
+      "After Effects",
+      "Video Editing",
+      "Animation"
+    ]
+  },
+  {
+    "id": "exp-005",
+    "company": "Information Technology University (ITU)",
+    "position": "Teaching Assistant – Artificial Intelligence",
+    "location": "Lahore, Pakistan",
+    "startDate": "2025-08-01",
+    "endDate": null,
+    "current": true,
+    "website": "https://itu.edu.pk",
+    "description": "Mentor students in AI fundamentals, neural networks, and programming.",
+    "achievements": [
+      "Conduct labs and grading for CS250: Programming for AI",
+      "Mentor students in machine learning concepts and implementation",
+      "Assist in curriculum development and assignment design",
+      "Support students in project development and debugging"
+    ],
+    "technologies": [
+      "Python",
+      "Machine Learning",
+      "Neural Networks",
+      "Teaching"
+    ]
+  },
+  {
+    "id": "exp-006",
+    "company": "Divine Solutions",
+    "position": "SEO Manager",
+    "location": "Lahore, Pakistan",
+    "startDate": "2024-02-01",
+    "endDate": "2025-08-31",
+    "current": false,
+    "website": "https://divinesolutions.pk",
+    "description": "Led comprehensive SEO strategy and execution for client projects.",
+    "achievements": [
+      "Increased organic traffic by 300%+ using Google Analytics, SEMrush, Ahrefs",
+      "Led on-page/off-page SEO and content strategy",
+      "Implemented successful link building campaigns",
+      "Improved search rankings for multiple high-value keywords"
+    ],
+    "technologies": [
+      "SEO",
+      "Google Analytics",
+      "SEMrush",
+      "Ahrefs",
+      "Content Marketing"
+    ]
+  }
+]

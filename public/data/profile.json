@@ -1,0 +1,88 @@
+{
+  "name": "Mutee ur Rehman",
+  "title": "AI Visionary & Full-Stack Innovator",
+  "tagline": "Architecting Scalable Intelligence with Python & Computer Vision | Empowering Brands through Intelligent Automation",
+  "professionalTagline": "AI Visionary | Founder @ Infynix Solutions | Architecting Scalable Intelligence with Python & Computer Vision | Empowering Brands through Intelligent Automation",
+  "avatar": "/assets/avatar.jpg",
+  "location": "House No. 2/1, Street No. 46, Islampura, Lahore, Pakistan",
+  "email": "muteekhan06@gmail.com",
+  "phone": "+92 307 6739250",
+  "bio": "Results-driven AI Innovator & Software Architect pursuing a BS in Artificial Intelligence at Information Technology University (ITU). I specialize in AI, Computer Vision, Deep Learning, Full-Stack Web Development, Python Automation, SEO, and Graphic Design. Founder of Infynix Solutions — delivering AI-powered chatbots, automation tools, responsive web apps, YouTube SEO, and high-impact digital branding. Known for cross-functional leadership, building production-grade AI systems, and delivering measurable ROI through intelligent, scalable solutions.",
+  "availability": "Open to Opportunities: AI Engineer, Full-Stack Developer, Computer Vision Specialist, Tech Lead",
+  "socials": {
+    "github": "https://github.com/muteeurrehman28",
+    "linkedin": "https://linkedin.com/in/mutee-ur-rehman-714110282",
+    "portfolio": "https://muteeurrehman.com",
+    "behance": "https://behance.net/muteeurrehman",
+    "youtube": "https://youtube.com/@MuteeAI"
+  },
+  "stats": {
+    "githubRepos": "12+",
+    "openSourceContribution": "100%",
+    "yearsOfExperience": 4
+  },
+  "education": [
+    {
+      "degree": "BS Artificial Intelligence",
+      "institution": "Information Technology University (ITU)",
+      "location": "Lahore, Pakistan",
+      "duration": "2023 – 2027",
+      "status": "In Progress",
+      "link": "https://itu.edu.pk"
+    },
+    {
+      "degree": "FSc Pre-Engineering",
+      "institution": "GC University Lahore",
+      "location": "Lahore, Pakistan",
+      "duration": "2021 – 2023",
+      "status": "Completed",
+      "link": "https://gcu.edu.pk"
+    },
+    {
+      "degree": "Matriculation (Computer Science)",
+      "institution": "PakTurk Maarif",
+      "location": "Lahore, Pakistan",
+      "duration": "2019 – 2021",
+      "status": "Completed",
+      "link": "https://ptmlahore.edu.pk"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Introduction to Front-End Development",
+      "platform": "Meta / Coursera",
+      "verified": true,
+      "link": "https://coursera.org/verify"
+    },
+    {
+      "title": "WordPress Crash Course",
+      "platform": "Udemy",
+      "verified": true,
+      "link": "https://udemy.com"
+    },
+    {
+      "title": "Complete WordPress Developer",
+      "platform": "Udemy",
+      "verified": true,
+      "link": "https://udemy.com"
+    },
+    {
+      "title": "Elementor Website Builder",
+      "platform": "Udemy",
+      "verified": true,
+      "link": "https://udemy.com"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Urdu",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Full Professional Proficiency"
+    }
+  ],
+  "resume": "/assets/resume.pdf",
+  "lastUpdated": "2025-11-02"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "award-001",
+    "title": "1st Place (Pakistan) - Math Kangaroo",
+    "issuer": "Math Kangaroo International",
+    "date": "2023",
+    "description": "Achieved first place in Pakistan for the prestigious international mathematics competition.",
+    "icon": "trophy",
+    "link": "https://mathkangaroo.org"
+  },
+  {
+    "id": "award-002",
+    "title": "3rd Place - National MISMO Competition",
+    "issuer": "MISMO",
+    "date": "2023",
+    "description": "Secured third place in the national MISMO (Mathematics and Science Olympiad) competition.",
+    "icon": "medal"
+  },
+  {
+    "id": "cert-001",
+    "title": "Introduction to Front-End Development",
+    "issuer": "Meta / Coursera",
+    "date": "2024",
+    "description": "Completed comprehensive front-end development certification from Meta.",
+    "icon": "certificate",
+    "verified": true,
+    "link": "https://coursera.org"
+  },
+  {
+    "id": "cert-002",
+    "title": "WordPress Crash Course",
+    "issuer": "Udemy",
+    "date": "2024",
+    "description": "Mastered WordPress fundamentals and best practices.",
+    "icon": "certificate",
+    "verified": true,
+    "link": "https://udemy.com"
+  },
+  {
+    "id": "cert-003",
+    "title": "Complete WordPress Developer",
+    "issuer": "Udemy",
+    "date": "2024",
+    "description": "Advanced WordPress development certification covering themes, plugins, and custom solutions.",
+    "icon": "certificate",
+    "verified": true,
+    "link": "https://udemy.com"
+  },
+  {
+    "id": "cert-004",
+    "title": "Elementor Website Builder",
+    "issuer": "Udemy",
+    "date": "2024",
+    "description": "Professional Elementor certification for building modern, responsive websites.",
+    "icon": "certificate",
+    "verified": true,
+    "link": "https://udemy.com"
+  },
+  {
+    "id": "achievement-001",
+    "title": "12+ Open Source Projects",
+    "issuer": "GitHub",
+    "date": "2025",
+    "description": "100% open source contribution with 12+ production-grade repositories.",
+    "icon": "code",
+    "link": "https://github.com/muteeurrehman28"
+  },
+  {
+    "id": "achievement-002",
+    "title": "Founder - Infynix Solutions",
+    "issuer": "Infynix Solutions",
+    "date": "2025",
+    "description": "Founded and leading a comprehensive AI and technology solutions company.",
+    "icon": "star",
+    "link": "https://infynixsolutions.com"
+  }
+]

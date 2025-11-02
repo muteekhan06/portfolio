@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "awards": "Awards",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "description": "Building the future with 100% free tools",
+    "cta": {
+      "primary": "View Projects",
+      "secondary": "Download Resume"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passionate Developer & Lifelong Learner"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My professional journey",
+    "current": "Present"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Things I've built",
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "viewDemo": "Live Demo",
+    "categories": {
+      "all": "All",
+      "web": "Web Development",
+      "ai": "AI/ML",
+      "mobile": "Mobile"
+    }
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Technologies I work with",
+    "yearsExp": "years"
+  },
+  "awards": {
+    "title": "Awards & Recognition",
+    "subtitle": "Achievements & certifications"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's build something amazing together",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Mutee-ur-Rehman. All rights reserved.",
+    "builtWith": "Built with 100% free tools",
+    "source": "View Source"
+  },
+  "admin": {
+    "login": "Admin Login",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "welcome": "Welcome back!",
+    "quickStats": "Quick Stats",
+    "recentChanges": "Recent Changes",
+    "editProfile": "Edit Profile",
+    "editProjects": "Manage Projects",
+    "editExperience": "Manage Experience",
+    "editSkills": "Manage Skills",
+    "preview": "Preview",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "upload": "Upload Image",
+    "delete": "Delete",
+    "addNew": "Add New"
+  }
+}
