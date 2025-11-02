@@ -1,3 +1,4 @@
+// cspell:word TOTP
 /// <reference types="vite/client" />
 
 interface ImportMetaEnv {
